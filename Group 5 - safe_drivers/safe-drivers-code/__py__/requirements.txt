@@ -1,0 +1,11 @@
+#safe_drivers
+
+pip install geocoder
+pip install PIL
+pip install tkinter
+sudo apt install python-tk
+pip install grovepi
+pip install gpio
+pip install scikit-fuzzy
+pip install requests
+pip install numpy
